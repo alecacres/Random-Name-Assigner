@@ -1,0 +1,13 @@
+.hidden {
+	visibility: hidden;
+}
+
+.delete-box {
+	display: inline-block;
+	background-color: grey;
+	border-radius: 100%;
+	border: none;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+}
